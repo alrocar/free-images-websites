@@ -1,165 +1,165 @@
 {
   "services": [
+  	{
+      "url": "http://www.gratisography.com/",
+      "name": "gratisography",
+      "description": "Imágenes gratis de alta resolución que puedes usar en tus proyectos personales y comerciales. Imágenes libres de copyright nuevas cada semana",
+      "thumb": "true",
+      "img": "true"
+    },
     {
       "url": "https://picjumbo.com/",
       "name": "picjumbo",
       "description": "Fotos gratis para trabajos comerciales y personales",
-      "thumb": "",
-      "img": ""
+      "thumb": "true",
+      "img": "true"
     },
     {
       "url": "https://pixabay.com/es/",
       "name": "pixabay",
       "description": "Imágenes gratuitas de alta calidad. Más de 560.000 fotos gratis, vectores e ilustraciones",
-      "thumb": "",
-      "img": ""
+      "thumb": "true",
+      "img": "true"
     },
     {
       "url": "https://unsplash.com/",
       "name": "unsplash",
       "description": "Fotos libres de alta resolución. 10 nuevas fotos cada 10 días",
-      "thumb": "",
-      "img": ""
+      "thumb": "true",
+      "img": "true"
     },
     {
       "url": "http://www.morguefile.com/",
       "name": "morguefile",
       "description": "Fotos de archivo gratis, creadas por creativos para creativos",
       "thumb": "",
-      "img": ""
+      "img": "true"
     },
     {
       "url": "http://es.freeimages.com/",
       "name": "freeimages",
       "description": "388.114 fotos e ilustraciones",
-      "thumb": "",
-      "img": ""
+      "thumb": "true",
+      "img": "true"
     },
     {
       "url": "http://search.creativecommons.org/",
       "name": "creativecommons",
       "description": "Buscador de contenido con licencia creative commons que puedes compartir, usar y editar",
-      "thumb": "",
-      "img": ""
+      "thumb": "true",
+      "img": "true"
     },
     {
       "url": "http://openphoto.net/",
       "name": "openphoto",
       "description": "El proyecto Open Photo es una plataforma para compartir fotos en la que los creadores ofrecen sus imágenes gratis bajo los términos de la licencia Creative Commons",
-      "thumb": "",
+      "thumb": "true",
       "img": ""
     },
     {
       "url": "http://photorack.net/",
       "name": "photorack",
-      "description": "",
-      "thumb": "",
+      "description": "Fotos de stock gratuitas",
+      "thumb": "true",
       "img": ""
     },
     {
       "url": "http://www.public-domain-photos.com/",
       "name": "public-domain-photos",
-      "description": "",
-      "thumb": "",
-      "img": ""
-    },
-    {
-      "url": "http://www.gratisography.com/",
-      "name": "gratisography",
-      "description": "",
-      "thumb": "",
+      "description": "500 fotos gratis y 8000 cliparts para uso personal y comercial",
+      "thumb": "true",
       "img": ""
     },
     {
       "url": "http://offers.hubspot.es/stock-fotos-gratis",
       "name": "hubspot",
-      "description": "",
-      "thumb": "",
+      "description": "Más de 100 fotos profesionales gratis, sin royalties y sin pagos",
+      "thumb": "true",
       "img": ""
     },
     {
       "url": "http://jaymantri.com/",
       "name": "jaymantri",
-      "description": "",
+      "description": "Imágenes gratis con licencia Creative Commons - CC0",
       "thumb": "",
-      "img": ""
+      "img": "true"
     },
     {
       "url": "https://www.pexels.com/",
       "name": "pexels",
-      "description": "",
+      "description": "5000 photos gratis bajo licencia Creative Commons - CC0. 600 fotos nuevas sin copyright cada mes",
       "thumb": "",
-      "img": ""
+      "img": "true"
     },
     {
       "url": "http://www.imcreator.com/free",
       "name": "imcreator",
-      "description": "",
+      "description": "Colección de recursos gratis seleccionados a mano para diseño web con uso comercial permitido",
       "thumb": "",
-      "img": ""
+      "img": "true"
     },
     {
       "url": "http://raumrot.com/",
       "name": "raumrot",
-      "description": "",
-      "thumb": "",
-      "img": ""
+      "description": "803 imágenes gratis para uso personal y comercial. Imágenes seleccionadas a mano, profesionales y auténticas",
+      "thumb": "true",
+      "img": "true"
     },
     {
       "url": "http://www.lifeofpix.com/",
       "name": "lifeofpix",
-      "description": "",
+      "description": "Fotos de alta resolución de dominio público, sin restricciones de copyright. Nuevas fotografías añadidas cada semana.",
       "thumb": "",
-      "img": ""
+      "img": "true"
     },
     {
       "url": "http://littlevisuals.co/",
       "name": "littlevisuals",
-      "description": "",
+      "description": "7 imágenes hi-res en tu bandeja de entrada para que las uses para lo que quieras",
       "thumb": "",
-      "img": ""
+      "img": "true"
     },
     {
       "url": "http://magdeleine.co/",
       "name": "magdeleine",
-      "description": "",
+      "description": "Una imagen de alta resolución gratis cada día",
       "thumb": "",
-      "img": ""
+      "img": "true"
     },
     {
       "url": "http://deathtothestockphoto.com/",
       "name": "deathtothestockphoto",
-      "description": "",
+      "description": "Fotos gratis en tu buzón de entrada cada mes con opción premium",
       "thumb": "",
       "img": ""
     },
     {
       "url": "http://startupstockphotos.com/",
       "name": "startupstockphotos",
-      "description": "",
-      "thumb": "",
-      "img": ""
+      "description": "Fotos de temática startup con licencia Creative Commons CC0",
+      "thumb": "true",
+      "img": "true"
     },
     {
       "url": "http://thestocks.im/",
       "name": "thestocks",
-      "description": "",
-      "thumb": "",
+      "description": "Colección de sitios con imágenes gratis",
+      "thumb": "true",
       "img": ""
     },
     {
       "url": "http://photopin.com/",
       "name": "photopin",
-      "description": "",
-      "thumb": "",
-      "img": ""
+      "description": "Fotos para bloggers y creativos. Busca millones de fotos Creative Commons y añádelas a tu blog fácilmente",
+      "thumb": "true",
+      "img": "true"
     },
     {
       "url": "https://www.flickr.com/commons",
       "name": "flickr",
-      "description": "",
-      "thumb": "",
-      "img": ""
+      "description": "Buscador de fotos Creative Commons de Flickr",
+      "thumb": "true",
+      "img": "true"
     },
     {
       "url": "http://www.photl.com/",
