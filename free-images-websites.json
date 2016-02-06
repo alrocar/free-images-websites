@@ -36,6 +36,13 @@
       "img": "true"
     },
     {
+      "url": "https://www.stocksy.com/",
+      "name": "stocksy",
+      "description": "Colección de fotografías curadas y seleccionadas a mano. Imágenes diferentes y de calidad",
+      "thumb": "true",
+      "img": "true"
+    },
+    {
       "url": "http://es.freeimages.com/",
       "name": "freeimages",
       "description": "388.114 fotos e ilustraciones",
@@ -164,302 +171,239 @@
     {
       "url": "http://www.photl.com/",
       "name": "photl",
-      "description": "",
-      "thumb": "",
+      "description": "Colección con más de 500.000 de imágenes de stock",
+      "thumb": "true",
       "img": ""
     },
     {
       "url": "http://www.rgbstock.com/",
       "name": "rgbstock",
-      "description": "",
-      "thumb": "",
-      "img": ""
+      "description": "Fotos de stock 100% gratis. Más de 100.000 imágenes disponibles",
+      "thumb": "true",
+      "img": "true"
     },
     {
       "url": "https://foodiesfeed.com/",
       "name": "foodiesfeed",
-      "description": "",
-      "thumb": "",
-      "img": ""
+      "description": "Fotos de comida y alimentos gratis y libres con opción premium",
+      "thumb": "true",
+      "img": "true"
     },
     {
       "url": "http://nos.twnsnd.co/",
       "name": "twnsnd",
-      "description": "",
+      "description": "Fotos vintage obtenidas de archivos públicos, libres de restricciones de copyright",
       "thumb": "",
-      "img": ""
+      "img": "true"
     },
     {
       "url": "http://picography.co/",
       "name": "picography",
-      "description": "",
+      "description": "Fotos en alta resolución con licencia libre",
       "thumb": "",
-      "img": ""
+      "img": "true"
     },
     {
       "url": "http://publicdomainarchive.com/",
       "name": "publicdomainarchive",
-      "description": "",
-      "thumb": "",
-      "img": ""
-    },
-    {
-      "url": "http://www.deviantart.com/",
-      "name": "deviantart",
-      "description": "",
-      "thumb": "",
-      "img": ""
+      "description": "250.000 fotos de stock 100% de dominio público. Nuevas fotos cada semana. Ideal para proyectos creativos",
+      "thumb": "true",
+      "img": "true"
     },
     {
       "url": "http://allthefreestock.com/",
       "name": "allthefreestock",
-      "description": "",
-      "thumb": "",
+      "description": "Colecciones de imágenes , vídeos y otro contenido libre con licencia Creative Commons CC0 para usar sin restricciones en proyectos comerciales",
+      "thumb": "true",
       "img": ""
     },
     {
       "url": "http://www.europeana.eu/portal/",
       "name": "europeana",
-      "description": "",
-      "thumb": "",
-      "img": ""
+      "description": "Archivo con 50 millones de imágenes, vídeos, libros y otro contenido relacionado con Europa",
+      "thumb": "true",
+      "img": "true"
     },
     {
       "url": "http://www.freedigitalphotos.net/",
       "name": "freedigitalphotos",
-      "description": "",
-      "thumb": "",
+      "description": "Imágenes de stock gratis y de pago",
+      "thumb": "true",
       "img": ""
     },
     {
       "url": "http://www.freefoto.com/index.jsp",
       "name": "freefoto",
-      "description": "",
-      "thumb": "",
+      "description": "Más de 130.000 imágenes organizadas en categorías para uso no comercial",
+      "thumb": "true",
       "img": ""
     },
     {
       "url": "http://www.istockphoto.com/",
       "name": "istockphoto",
-      "description": "",
-      "thumb": "",
-      "img": ""
-    },
-    {
-      "url": "https://openclipart.org/",
-      "name": "openclipart",
-      "description": "",
-      "thumb": "",
-      "img": ""
+      "description": "Explora millones de imágenes libres de royalties, ilustraciones, vídeos y música",
+      "thumb": "true",
+      "img": "true"
     },
     {
       "url": "http://www.picdrome.com/page/gallery",
       "name": "picdrome",
-      "description": "",
+      "description": "Colección digital de fotografías de dominio público, libres de copyright o con licencia Creative Commons",
       "thumb": "",
-      "img": ""
+      "img": "true"
     },
     {
       "url": "http://www.pond5.com/es/free",
       "name": "pond5",
-      "description": "",
-      "thumb": "",
-      "img": ""
+      "description": "Millones de archivos históricos para proyectos creativos, libres y gratis.",
+      "thumb": "true",
+      "img": "true"
     },
     {
       "url": "http://www.stockphotosforfree.com/",
       "name": "stockphotosforfree",
-      "description": "",
-      "thumb": "",
-      "img": ""
+      "description": "100.000 imágenes de stock que cubren cualquier temática.",
+      "thumb": "false",
+      "img": "true"
     },
     {
       "url": "https://stocksnap.io/",
       "name": "stocksnap",
-      "description": "",
-      "thumb": "",
-      "img": ""
-    },
-    {
-      "url": "https://www.stocksy.com/",
-      "name": "stocksy",
-      "description": "",
-      "thumb": "",
-      "img": ""
+      "description": "Nuevas imágenes de alta resolución sin derechos cada semana y sin necesidad de atribución",
+      "thumb": "true",
+      "img": "true"
     },
     {
       "url": "http://stokpic.com/",
       "name": "stokpic",
-      "description": "",
-      "thumb": "",
-      "img": ""
-    },
-    {
-      "url": "https://commons.wikimedia.org/wiki/Main_Page",
-      "name": "wikimedia",
-      "description": "",
-      "thumb": "",
-      "img": ""
-    },
-    {
-      "url": "http://bossfight.co/",
-      "name": "bossfight",
-      "description": "",
-      "thumb": "",
+      "description": "Fotos libres para uso comercial con licencia que no permite la redistribución",
+      "thumb": "true",
       "img": ""
     },
     {
       "url": "http://realisticshots.com/",
       "name": "realisticshots",
-      "description": "",
-      "thumb": "",
+      "description": "7 nuevas fotos cada semana para uso personal y comercial",
+      "thumb": "true",
       "img": ""
     },
     {
       "url": "http://mmt.li/",
       "name": "mmt",
-      "description": "",
+      "description": "Fotos gratis para uso comercial con licencia CC0",
       "thumb": "",
-      "img": ""
+      "img": "true"
     },
     {
       "url": "http://www.splitshire.com/",
       "name": "splitshire",
-      "description": "",
-      "thumb": "",
-      "img": ""
-    },
-    {
-      "url": "http://freenaturestock.com/",
-      "name": "freenaturestock",
-      "description": "",
-      "thumb": "",
+      "description": "Descarga de fotos de alta calidad para uso comercial sin copyright. Actualizaciones todos los días",
+      "thumb": "true",
       "img": ""
     },
     {
       "url": "http://moveast.me/",
       "name": "moveast",
-      "description": "",
+      "description": "Este es el viaje de un portugués que decidió que cada una de sus fotos debería poder ser usada libremente, cuando y donde quieras, con licencia CC0",
       "thumb": "",
-      "img": ""
+      "img": "true"
     },
     {
       "url": "http://skitterphoto.com/",
       "name": "skitterphoto",
-      "description": "",
+      "description": "Fotos de dominio público de uso libre para blogs, páginas web, anuncios, etc. Nuevas fotos todos los días",
       "thumb": "",
-      "img": ""
+      "img": "true"
     },
     {
       "url": "http://fancycrave.com/",
       "name": "fancycrave",
-      "description": "",
+      "description": "Fotos gratis de fotógrafos profesionales. Dos imágenes nuevas cada día",
       "thumb": "",
-      "img": ""
+      "img": "true"
     },
     {
       "url": "http://skuawk.com/",
       "name": "skuawk",
-      "description": "",
+      "description": "Fotos artísticas de dominio público",
       "thumb": "",
-      "img": ""
-    },
-    {
-      "url": "https://canweimage.com/",
-      "name": "canweimage",
-      "description": "",
-      "thumb": "",
-      "img": ""
-    },
-    {
-      "url": "http://compfight.com/",
-      "name": "compfight",
-      "description": "",
-      "thumb": "",
-      "img": ""
+      "img": "true"
     },
     {
       "url": "http://foter.com/",
       "name": "foter",
-      "description": "",
-      "thumb": "",
+      "description": "Buscador con más de 200 millones de fotos libres",
+      "thumb": "true",
       "img": ""
     },
     {
       "url": "http://www.everystockphoto.com/",
       "name": "everystockphoto",
-      "description": "",
-      "thumb": "",
+      "description": "Buscador de imágenes y fotografías con licencia (libre o no)",
+      "thumb": "true",
       "img": ""
     },
     {
       "url": "https://imagefinder.co/",
       "name": "imagefinder",
-      "description": "",
-      "thumb": "",
+      "description": "Buscador con más de 20.000 imágenes de stock de diferentes categorías",
+      "thumb": "true",
       "img": ""
     },
     {
       "url": "https://stockphotos.io/",
       "name": "stockphotos",
       "description": "",
-      "thumb": "",
+      "thumb": "true",
       "img": ""
     },
     {
       "url": "http://www.tineye.com/",
       "name": "tineye",
       "description": "",
-      "thumb": "",
-      "img": ""
+      "thumb": "true",
+      "img": "true"
     },
     {
       "url": "https://www.wylio.com/",
       "name": "wylio",
       "description": "",
-      "thumb": "",
-      "img": ""
+      "thumb": "true",
+      "img": "true"
     },
     {
       "url": "http://www.dreamstime.com/free-photos",
       "name": "dreamstime",
       "description": "",
-      "thumb": "",
+      "thumb": "true",
       "img": ""
     },
     {
       "url": "http://www.stockvault.net/",
       "name": "stockvault",
       "description": "",
-      "thumb": "",
-      "img": ""
-    },
-    {
-      "url": "https://es.fotolia.com/",
-      "name": "fotolia",
-      "description": "",
-      "thumb": "",
+      "thumb": "true",
       "img": ""
     },
     {
       "url": "http://www.freephotosbank.com/",
       "name": "freephotosbank",
       "description": "",
-      "thumb": "",
+      "thumb": "true",
       "img": ""
     },
     {
       "url": "https://freerangestock.com/",
       "name": "freerangestock",
       "description": "",
-      "thumb": "",
+      "thumb": "true",
       "img": ""
     },
     {
       "url": "http://www.lomography.com/photos",
       "name": "lomography",
       "description": "",
-      "thumb": "",
+      "thumb": "true",
       "img": ""
     },
     {
@@ -467,7 +411,7 @@
       "name": "davidniblack",
       "description": "",
       "thumb": "",
-      "img": ""
+      "img": "true"
     }
   ]
 }
